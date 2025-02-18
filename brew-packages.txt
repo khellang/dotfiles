@@ -1,0 +1,9 @@
+git
+zsh
+postgresql
+nvm
+spaceship
+git-delta
+bat
+fzf
+gh

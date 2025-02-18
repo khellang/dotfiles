@@ -1,0 +1,7 @@
+iterm2
+visual-studio-code
+rider
+snagit
+slack
+zoom
+lastpass

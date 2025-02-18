@@ -1,0 +1,12 @@
+cesium.gltf-vscode
+donjayamanne.githistory
+eriklynd.json-tools
+esbenp.prettier-vscode
+github.vscode-github-actions
+mechatroner.rainbow-csv
+ms-azuretools.vscode-bicep
+ms-dotnettools.csdevkit
+ms-dotnettools.csharp
+ms-dotnettools.vscode-dotnet-runtime
+ms-vscode.hexeditor
+ms-vscode.powershell
