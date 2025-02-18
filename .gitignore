@@ -1,0 +1,38 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore SSH keys (never commit these!)
+.ssh/*
+!.ssh/config 
+
+# Ignore macOS system files
+.Library/
+.Trash/
+.localized
+
+# Ignore personal shell history and cache
+.zsh_history
+.zsh_sessions
+.zcompdump*
+.cache/
+.nvm/
+.npm/
+.pyenv/
+.rbenv/
+
+# Ignore VS Code settings (if unnecessary)
+.vscode/
+code-workspace
+
+# Ignore log files
+*.log
+*.swp
+*.swo
+
+# Ignore Homebrew and package manager data
+.brew/
+.Cargo/
+.yarn/
+.pip/
+.nodenv/
